@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Minha trajetória</title>
+</head>
+
+<body>
+
+    <h1>Minha trajetória</h1>
+
+    <h2>Infância</h2>
+
+    <p>
+        Cresci em São Paulo e tive uma infância tranquila com minha família.
+        Sempre fui uma pessoa ativa e curiosa.
+    </p>
+
+    <p>
+        Desde cedo gostei de esportes e atividades que exigem disciplina.
+    </p>
+
+    <h2>Educação</h2>
+
+    <p>
+        Sempre me dediquei aos estudos e procurei aprender o máximo possível.
+    </p>
+
+    <p>
+        Hoje continuo estudando tecnologia e buscando crescimento pessoal.
+    </p>
+
+    <h2>Momentos importantes</h2>
+
+    <p>
+        Um momento importante foi começar a praticar jiu-jitsu,
+        o que me ajudou muito na disciplina.
+    </p>
+
+    <p>
+        Outro momento marcante foi desenvolver interesse por tecnologia e jogos.
+    </p>
+
+</body>
+
+</html>

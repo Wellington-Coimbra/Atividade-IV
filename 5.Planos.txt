@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Planos para o futuro</title>
+</head>
+
+<body>
+
+    <h1>Planos para o futuro</h1>
+
+    <h2>Objetivos profissionais</h2>
+
+    <p>
+        Meu objetivo é trabalhar na área de tecnologia como desenvolvedor.
+    </p>
+
+    <p>
+        Quero crescer profissionalmente e construir uma carreira sólida.
+    </p>
+
+    <h2>Objetivos pessoais</h2>
+
+    <p>
+        Quero continuar praticando jiu-jitsu e evoluir no esporte.
+    </p>
+
+    <p>
+        Também quero me divertir jogando Fortnite e manter uma vida equilibrada.
+    </p>
+
+    <h2>Mensagem final</h2>
+
+    <p>
+        Com foco, disciplina e dedicação, acredito que posso alcançar todos os meus objetivos.
+    </p>
+
+</body>
+
+</html>

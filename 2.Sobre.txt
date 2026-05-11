@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Sobre mim</title>
+</head>
+
+<body>
+
+    <h1>Sobre mim</h1>
+
+    <h2>Quem sou eu</h2>
+
+    <p>
+        Meu nome é Wellington Souza, moro em São Paulo e sou estudante.
+        Tenho interesse na área de tecnologia e desenvolvimento.
+    </p>
+
+    <p>
+        Estou sempre buscando aprender e evoluir, tanto na parte pessoal quanto profissional.
+    </p>
+
+    <h2>Minha personalidade</h2>
+
+    <p>
+        Sou uma pessoa determinada, focada e curiosa.
+        Gosto de aprender coisas novas e melhorar minhas habilidades todos os dias.
+    </p>
+
+    <p>
+        Valorizo disciplina, respeito e dedicação em tudo o que faço.
+    </p>
+
+    <h2>O que gosto de fazer</h2>
+
+    <p>
+        Gosto de praticar jiu-jitsu, jogar Fortnite e ir à academia.
+    </p>
+
+    <p>
+        Também gosto de arrumar o cabelo, ouvir música e passar tempo com amigos.
+    </p>
+
+</body>
+
+</html>

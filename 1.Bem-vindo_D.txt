@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Bem-vindo ao meu site</title>
+</head>
+
+<body>
+
+    <h1>Bem-vindo ao meu site</h1>
+
+    <h2>Apresentação</h2>
+
+    <p>
+        Olá! Meu nome é Wellington Souza e este é meu minisite pessoal.
+        Atualmente estudo tecnologia e tenho grande interesse por programação,
+        desenvolvimento web e inovação digital.
+    </p>
+
+    <p>
+        Sou uma pessoa curiosa, dedicada e sempre disposta a aprender coisas novas.
+        Gosto de enfrentar desafios, desenvolver habilidades e buscar conhecimento
+        para crescer pessoalmente e profissionalmente.
+    </p>
+
+    <p>
+        No meu dia a dia gosto de ir à academia, praticar jiu-jitsu, jogar Fortnite
+        e também cuidar do meu estilo e arrumar o cabelo.
+    </p>
+
+    <h2>Sobre este site</h2>
+
+    <p>
+        Neste site você encontrará informações sobre minha trajetória, interesses, hobbies e planos para o futuro.
+    </p>
+
+    <p>
+        O objetivo deste minisite é apresentar um pouco mais sobre quem eu sou e meus objetivos.
+    </p>
+
+    <p>
+        Cada página foi organizada de forma simples para facilitar o entendimento.
+    </p>
+
+    <h2>Mensagem para o visitante</h2>
+
+    <p>
+        Obrigado por visitar meu site! Espero que goste de conhecer minha história.
+    </p>
+
+</body>
+
+</html>

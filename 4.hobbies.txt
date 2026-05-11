@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Interesses e hobbies</title>
+</head>
+
+<body>
+
+    <h1>Interesses e hobbies</h1>
+
+    <h2>Tecnologia</h2>
+
+    <p>
+        Tenho interesse em tecnologia e gosto de aprender sobre programação e jogos.
+    </p>
+
+    <h2>Atividades que gosto</h2>
+
+    <p>
+        Gosto de praticar jiu-jitsu, pois ajuda na disciplina e no condicionamento físico.
+    </p>
+
+    <p>
+        Também gosto de jogar Fortnite e passar tempo me divertindo no videogame.
+    </p>
+
+    <h2>Coisas que gostaria de aprender</h2>
+
+    <p>
+        Gostaria de aprender mais sobre desenvolvimento de jogos e inteligência artificial.
+    </p>
+
+</body>
+
+</html>
